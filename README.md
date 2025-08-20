@@ -75,5 +75,5 @@ Huge thanks to them for the insightful walkthrough and dataset.
 
 ## 🖼️ Screenshots / Demo
 
-➡️ *[Paste your screenshot or report link here]*
+Blinkit Analysis Report.png
 
