@@ -75,5 +75,5 @@ Huge thanks to them for the insightful walkthrough and dataset.
 
 ## 🖼️ Screenshots / Demo
 
-![Dashbord Preview][Blinkit Analysis Report.png](https://github.com/divyamehulmakwana-bit/Blinkit-Analysis/blob/main/Blinkit%20Analysis%20Report.png)
+[Blinkit Analysis Report.png](https://github.com/divyamehulmakwana-bit/Blinkit-Analysis/blob/main/Blinkit%20Analysis%20Report.png)
 
